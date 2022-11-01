@@ -1,0 +1,45 @@
+body{
+    background-color: #181818;
+    color: white;
+}
+.buttons{
+    word-spacing: 100px;
+    text-align: center;
+}
+.heading{
+     text-align: center;
+     font-size: 80px;
+     padding: 0px;
+}
+.paragraph{
+     text-align: center;
+     padding: 20px;
+     
+}
+.extra{
+    word-spacing: 10px;
+    text-align: center;
+    padding: 90px;
+}
+#b1{
+    background-color:black;
+    color: white;
+    border: solid;
+    padding: 15px 40px;
+}
+#b2{
+   background-color: rgb(7, 7, 181);
+   color: white;
+   border: none;
+   padding: 15px 50px;
+}
+#b3{
+   background-color: black;
+   color: white;
+   border: solid;
+   padding: 15px 50px;
+}
+img{
+    float: left;
+    padding-left: 220px;
+}
